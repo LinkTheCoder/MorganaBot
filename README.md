@@ -1,6 +1,6 @@
 # Morgana Bot
 
-<img src="https://i.imgur.com/QpR5z2G.png" width="60%" />
+<img src="https://i.imgur.com/Grgk2cP.png" width="60%" />
 
 <br><br>
   
