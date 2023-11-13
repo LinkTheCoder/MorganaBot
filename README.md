@@ -10,6 +10,6 @@
 > 
 > ```/photofood``` Show photos of food!
 > 
-> ```/quotes``` Show random quotes!
+> ```/quotes``` Show random quotes from selected P5 character!
 > 
 > ```/quiz``` Show random school quiz!
